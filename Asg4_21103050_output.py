@@ -9,8 +9,17 @@ Move disk 1 from rod A to rod C
 
 
 ANSWER 2
-Enter the size of pascals triangle 4
-USING LOOPS
+Enter the size of pascals triangle 
+4
+USING FOR LOOP
+     1 
+    1 1 
+   1 2 1 
+  1 3 3 1 
+
+
+
+USING WHILE LOOP
      1 
     1 1 
    1 2 1 
